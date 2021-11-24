@@ -1,6 +1,8 @@
 import React from 'react';
-import { Counter } from './features/counter/Counter';
-import './App.css';
+ // eslint-disable-next-line
+ import { Counter } from './features/counter/Counter';
+ import './App.css';
+ // eslint-disable-next-line
 import Header from './components/Header';
 import Home from './components/Home';
 
